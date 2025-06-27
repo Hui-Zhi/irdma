@@ -1,4 +1,0 @@
-[submodule "irdma"]
-	path = .
-	url = https://github.com/Hui-Zhi/irdma.git
-	branch = main
